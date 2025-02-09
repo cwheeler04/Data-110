@@ -46,8 +46,15 @@ sometime soon.
 | Phillies | Philadelphia | 8  |
 |  Marlins | Miami | 2 |
 
-### 
+#### The National's Rebuild Plan:
+- [x] Trade away star players, obtain prospects.
+- [x] Develop prospects into good players.
+- [ ] Extend the contracts of those prospects.
+- [ ] Sign significant free agent players.
+- [ ] Become competitive again and make the playoffs.
 
+
+[^label]: The Cy Young award is presented to the best pitcher in the National League and American League based on their current performance. Max Scherzer won the National League Cy Young in 2016 and 2017 for his exceptional pitching throughout the year.
 
 
 
